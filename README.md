@@ -1,0 +1,2 @@
+# localrepo
+first git repositary
